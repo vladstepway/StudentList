@@ -33,6 +33,11 @@ public class StudentInterface implements AbstractInterface {
         addStudent(new Student("Иванов", "Минск", "19", "02", "1997", "5", "5", "5"));
         addStudent(new Student("Степовой", "Минск", "15", "02", "1998", "7", "7", "7"));
         addStudent(new Student("Дураков", "Гродно", "20", "01", "2000", "8", "8", "8"));
+        addStudent(new Student("Дураков", "Гродно", "20", "01", "2000", "8", "8", "8"));
+        addStudent(new Student("Дураков", "Гродно", "20", "01", "2000", "8", "8", "8"));
+        addStudent(new Student("Дураков", "Гродно", "20", "01", "2000", "8", "8", "8"));
+        addStudent(new Student("Дураков", "Гродно", "20", "01", "2000", "8", "8", "8"));
+        addStudent(new Student("Дураков", "Гродно", "20", "01", "2000", "8", "8", "8"));
         addStudent(new Student("Шамрицкий", "Жодино", "20", "05", "1999", "6", "6", "6"));
         addStudent(new Student("Мойсеенко", "Минск", "08", "04", "1999", "9", "9", "9"));
         addStudent(new Student("Иванов", "Минск", "19", "02", "1997", "5", "5", "5"));
